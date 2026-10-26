@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <!-- Freccia del giocatore sulla mappa: punta verso destra (rotazione 0) -->
+  <circle cx="40" cy="40" r="22" fill="#241d4f" stroke="#7ee8ff" stroke-width="4"/>
+  <path d="M 58 40 L 30 26 L 36 40 L 30 54 Z" fill="#7ee8ff"/>
+</svg>
